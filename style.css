@@ -47,6 +47,14 @@ main {
     align-items: center;
 }
 
+#hey {
+    font-family: monospace;
+}
+
+#i {
+    font-family: monospace;
+}
+
 #mainContent{
     font-size: 339%;
     position: relative;
@@ -80,14 +88,52 @@ font-weight: 900;
 
 }
 
-#logo{
-height: 1px;
-width:1px;
+#linkedinlogo{
+height: 40px;
+width:70px;
+margin-right: 10px;
+}
+
+#instalogo{
+    height: 40px;
+    width:40px;
+    margin-right: 10px;
 
 }
 
-#logo{
-    height: 1px;
-    width:1px;
+#githublogo{
+    height: 40px;
+    width:40px;
+    margin-right: 10px;
+
+}
+
+#linkedinlogo:hover{
+    height: 50px;
+    width:90px;
+
+
+}
+
+
+#instalogo:hover{
+    height: 50px;
+    width:50px;
+
+
+}
+
+#githublogo:hover{
+    height: 50px;
+    width:50px;
+
+
+}
+
+
+#pa{
+    margin-right: 32px;
+    font-size: 24px;
+    font-family: cursive;
 
 }
