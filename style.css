@@ -1,0 +1,78 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: aliceblue;
+
+
+}
+
+header {
+
+    color: aliceblue;
+    background-color: rgba(20, 18, 65, 0.968);
+height: 10vh;
+}
+
+#contact{ 
+    position: relative;
+    left: 55vw;
+    top: -1vh;
+    font-size: 192%;
+    font-family: serif;
+}
+
+#myResume{
+    position: relative;
+    left: 52vw;
+    top: -1vh;
+    font-size: 192%;
+    font-family: serif;
+}
+
+#portfolio {
+    font-size: 386%;
+}
+
+main {
+    height: 80vh;
+    width: 100vw;
+    background-image: url(bag.png);
+    background-size: cover;
+    background-repeat: none;
+    margin: 0px;
+    position: relative;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#mainContent{
+    font-size: 339%;
+    position: relative;
+    left: -19vw;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    background-color: rgba(20, 18, 65, 0.968);
+ height: 10vh;
+    width: 100vw;
+}
+
+p {
+    display: inline-block;
+}
+
+#discription{
+font-family: monospace;
+
+}
+
+#frontend{
+    font-family: monospace;
+color: red;
+font-weight: 900;
+
+}
