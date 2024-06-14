@@ -137,3 +137,23 @@ margin-right: 10px;
     font-family: cursive;
 
 }
+
+#i:hover {
+    font-size: 113%;
+}
+
+#hey:hover {
+    font-size: 113%;
+}
+
+h1:hover {
+    font-size: 210%;
+}
+
+#discription:hover {
+    font-size: 110%;
+}
+
+#frontend:hover {
+    font-size: 113%;
+}
